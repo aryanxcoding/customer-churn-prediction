@@ -47,6 +47,14 @@ Customers are more likely to churn if they:
 
 The model achieved **82% accuracy** in predicting customer churn.
 
+## Model Performance
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Top Factors Influencing Customer Churn
+![Feature Importance](images/feature_importance.png)
+
 ## Author
 
 Aryann Jain
